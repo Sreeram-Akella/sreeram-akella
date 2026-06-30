@@ -15,4 +15,4 @@ Engineering Manager at [Snyk](https://snyk.io), with 20+ years building software
 - Scaling engineering teams without losing speed or trust
 - Always up for a good conversation about engineering leadership — feel free to reach out.
 
-📫 [LinkedIn](https://www.linkedin.com/in/sreeramakella/) · [Email](@sreeram.akella@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/sreeramakella/) · [Email](mailto:sreeram.akella@gmail.com)
