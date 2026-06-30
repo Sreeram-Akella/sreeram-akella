@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Ram 👋
 
-<!--
-**Sreeram-Akella/sreeram-akella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Manager at [Snyk](https://snyk.io), with 20+ years building software and ~6 years leading engineering teams. I focus on growing strong, resilient teams and building secure developer tooling at scale.
 
-Here are some ideas to get you started:
+**What I work on**
+- Leading engineering teams in cybersecurity / developer tools (SAST, SCA, IaC, container security)
+- Multi-tenant cloud infrastructure (GCP, Azure, AWS) — reliability, incident response, and operational excellence
+- Hiring, mentoring, and building team culture that scales with the business
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+20+ years across the stack — C#, Java, Python, TypeScript — before moving fully into engineering leadership. I care about the intersection of strong technical judgment and the people side of building software: clear communication, calm incident response, and teams that ship with confidence.
+
+**Currently thinking about**
+- What "engineering excellence" looks like in security-critical, multi-tenant systems
+- Scaling engineering teams without losing speed or trust
+- Always up for a good conversation about engineering leadership — feel free to reach out.
+
+📫 [LinkedIn](https://www.linkedin.com/in/sreeramakella/) · [Email](sreeram.akella@gmail.com)
